@@ -1,0 +1,13 @@
+{
+    "factorio.versions": [
+        {
+            "name": "Space Age (Stable)",
+            "factorioPath": "/home/sharparam/games/factorio/sa_latest/bin/x64/factorio",
+            "active": true
+        }
+    ],
+    "Lua.workspace.userThirdParty": [
+        "/home/sharparam/.config/Code/User/workspaceStorage/17eebfb999a1ea95881cae52c9311fbe/justarandomgeek.factoriomod-debug/sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory"
+}
